@@ -1,0 +1,14 @@
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\bin\Debug\net6.0\Stefanini.Data.deps.json
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\bin\Debug\net6.0\Stefanini.Data.runtimeconfig.json
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\bin\Debug\net6.0\Stefanini.Data.dll
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\bin\Debug\net6.0\Stefanini.Data.pdb
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.csproj.AssemblyReference.cache
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.AssemblyInfoInputs.cache
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.AssemblyInfo.cs
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.dll
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\refint\Stefanini.Data.dll
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.pdb
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\Stefanini.Data.genruntimeconfig.cache
+G:\Meu Drive\Desenvolvimento\Stefanini\Stefanini\Stefanini.Data\obj\Debug\net6.0\ref\Stefanini.Data.dll
